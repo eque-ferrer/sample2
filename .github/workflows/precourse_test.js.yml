@@ -33,4 +33,4 @@ jobs:
     - name: Lesson 11 - Javascript VIII (Recursion)
       run: npm test L11/Homework/tests/JSVIII.test.js      
     - name: Lesson 12 - Document Object Model
-      run: npm test L12/Homework/tests/DOM.test.js
+      run: npm test L11/Homework/tests/JSVIII.test.js  
